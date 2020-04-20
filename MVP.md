@@ -11,7 +11,7 @@ A RAP should:
 In order to achieve these benefits, at a minimum a RAP must:
 - Augment extant technical and quality assurance processes with **peer review** to ensure that the process is reproducible and that the below requirements have been met.
 - **Minimise manual steps**, for example copy-paste, point-click or drag-drop steps. Where it is absolutely necessary to include a manual step in the process this must be documented as described below. 
-- Be built using software where the code is available to view internally, but preferably using **open source software** which is available to anyone.
+- Be built using **open source software** which is available to anyone, preferably R or python.
 - Guarantee an **audit trail** using version control software, preferably Git.
 - Be **open to anyone**. This can be facilitated most easily through the use of file and code sharing platforms.
 - Follow **existing good practice for quality assurance** - guidance set by departments or organisations, and by the Good Practice Team for the Government Statistical Service.
