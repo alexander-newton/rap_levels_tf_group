@@ -1,3 +1,5 @@
+# This page will no longer be updated, please see the [RAP Maturity Guidance](https://github.com/best-practice-and-impact/rap_mvp_maturity_guidance/blob/master/Reproducible-Analytical-Pipelines-MVP.md).
+
 # RAP Benefits
 
 A RAP should:
